@@ -8,4 +8,4 @@ Mata Kuliah      : Pemrograman Web 2
 ```
 
 #### Berikut adalah hasil tampilan dari web :
-![Gambar 1](Screenshoot/ss1.png)
+![Gambar 1](Screenshot/ss1.png)
